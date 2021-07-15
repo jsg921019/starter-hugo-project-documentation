@@ -1,3 +1,12 @@
+---
+title: Reading List2
+linktitle: Reading List2
+type: book
+date: "2019-05-05T00:00:00+01:00"
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 2
+---
+
 # Lenet-5 (1998)
 
 CNN 아키텍쳐의 할아버지급의 위상을 가지는 Lenet-5 모델에 대해 알아보고자 한다. 이 모델이 소개된 논문의 주요 내용은 잘 설계된 신경망에 대한 효율성에 대한 입증과 Graph Transformer Network으로 Lenet은 하나의 성공적인 예시로 어찌보면 조연처럼 나오지만, 그래도 우리가 관심있는 것은 Lenet모델이니 이 글에서는 Lenet에만 집중하록 하겠다.
